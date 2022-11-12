@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1666554806034,560,Home,200,OK,Thread Group 1-2,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,118,0,60
+1666554806034,118,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,118,0,60
+1666554806153,441,Home-1,200,OK,Thread Group 1-2,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,440,0,385
+1666554806597,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,3,3,null,0,0,0
+1666554805756,851,Home,200,OK,Thread Group 1-1,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,215,0,150
+1666554805756,229,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,215,0,150
+1666554805994,613,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,612,0,544
+1666554806607,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,3,3,null,0,0,0
+1666554806432,257,Home,200,OK,Thread Group 1-3,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,99,0,51
+1666554806432,99,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,99,0,51
+1666554806533,156,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,155,0,112
+1666554806690,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,3,3,null,0,0,0
+1666554806598,151,Home,200,OK,Thread Group 1-2,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,96,0,51
+1666554806598,96,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,96,0,51
+1666554806694,55,Home-1,200,OK,Thread Group 1-2,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,50,0,0
+1666554806750,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,3,3,null,0,0,0
+1666554806608,186,Home,200,OK,Thread Group 1-1,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,120,0,60
+1666554806608,120,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,120,0,60
+1666554806728,66,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554806795,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,3,3,null,0,0,0
+1666554806691,164,Home,200,OK,Thread Group 1-3,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,117,0,57
+1666554806691,117,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,117,0,57
+1666554806809,46,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,45,0,0
+1666554806856,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1666554806751,179,Home,200,OK,Thread Group 1-2,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,125,0,67
+1666554806751,125,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,125,0,67
+1666554806876,54,Home-1,200,OK,Thread Group 1-2,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,50,0,0
+1666554806931,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,4,4,null,0,0,0
+1666554806796,184,Home,200,OK,Thread Group 1-1,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,117,0,59
+1666554806796,117,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,117,0,59
+1666554806913,67,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554806980,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,4,4,null,0,0,0
+1666554806856,163,Home,200,OK,Thread Group 1-3,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,116,0,58
+1666554806856,116,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,116,0,58
+1666554806973,46,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,45,0,0
+1666554807020,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1666554806932,170,Home,200,OK,Thread Group 1-2,text,true,,4005,254,4,4,https://rangers-bikes.firebaseapp.com/,117,0,58
+1666554806932,117,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,117,0,58
+1666554807049,53,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,4,4,https://rangers-bikes.firebaseapp.com/,49,0,0
+1666554807103,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,4,4,null,0,0,0
+1666554806982,155,Home,200,OK,Thread Group 1-1,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,88,0,44
+1666554806982,88,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,88,0,44
+1666554807071,66,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554807138,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,4,4,null,0,0,0
+1666554806810,337,Home,200,OK,Thread Group 1-4,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,117,0,58
+1666554806810,117,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,117,0,58
+1666554806928,219,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,218,0,154
+1666554807147,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,4,4,null,0,0,0
+1666554807020,138,Home,200,OK,Thread Group 1-3,text,true,,4004,254,4,4,https://rangers-bikes.firebaseapp.com/,91,0,48
+1666554807020,91,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,91,0,48
+1666554807111,47,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,4,4,https://rangers-bikes.firebaseapp.com/,46,0,0
+1666554807159,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1666554807104,148,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,95,0,47
+1666554807104,95,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,95,0,47
+1666554807199,53,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,49,0,0
+1666554807253,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807148,166,Home,200,OK,Thread Group 1-4,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,96,0,48
+1666554807148,96,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,96,0,48
+1666554807244,70,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,70,0,0
+1666554807315,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1666554807159,163,Home,200,OK,Thread Group 1-3,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,117,0,59
+1666554807159,117,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,117,0,59
+1666554807276,46,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,43,0,0
+1666554807323,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,5,5,null,0,0,0
+1666554807139,187,Home,200,OK,Thread Group 1-1,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,116,0,58
+1666554807139,116,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,116,0,58
+1666554807255,71,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554807326,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,5,5,null,0,0,0
+1666554807255,157,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,105,0,57
+1666554807255,105,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,105,0,57
+1666554807360,52,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,49,0,0
+1666554807413,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807324,165,Home,200,OK,Thread Group 1-3,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,119,0,59
+1666554807324,119,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,119,0,59
+1666554807443,46,Home-1,200,OK,Thread Group 1-3,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,44,0,0
+1666554807489,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,5,5,null,0,0,0
+1666554807315,180,Home,200,OK,Thread Group 1-4,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807315,118,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807434,61,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554807495,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1666554807327,186,Home,200,OK,Thread Group 1-1,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,117,0,58
+1666554807327,117,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,117,0,58
+1666554807445,68,Home-1,200,OK,Thread Group 1-1,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554807513,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,5,5,null,0,0,0
+1666554807209,319,Home,200,OK,Thread Group 1-5,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,118,0,57
+1666554807209,118,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,118,0,57
+1666554807328,200,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,199,0,140
+1666554807528,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1666554807414,168,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,115,0,58
+1666554807414,115,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,115,0,58
+1666554807529,53,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,51,0,0
+1666554807583,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807490,161,Home,200,OK,Thread Group 1-3,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,115,0,58
+1666554807490,115,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,115,0,58
+1666554807605,46,Home-1,200,OK,Thread Group 1-3,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,45,0,0
+1666554807652,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,5,5,null,0,0,0
+1666554807496,183,Home,200,OK,Thread Group 1-4,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,124,0,58
+1666554807496,124,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,124,0,58
+1666554807620,59,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,58,0,0
+1666554807679,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1666554807514,191,Home,200,OK,Thread Group 1-1,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807514,118,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807632,73,Home-1,200,OK,Thread Group 1-1,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,62,0,0
+1666554807706,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,5,5,null,0,0,0
+1666554807528,193,Home,200,OK,Thread Group 1-5,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,128,0,69
+1666554807528,128,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,128,0,69
+1666554807656,65,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,65,0,0
+1666554807722,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1666554807585,174,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,120,0,58
+1666554807585,120,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,120,0,58
+1666554807705,54,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,50,0,0
+1666554807760,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807652,166,Home,200,OK,Thread Group 1-3,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,120,0,60
+1666554807652,120,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,120,0,60
+1666554807772,46,Home-1,200,OK,Thread Group 1-3,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,45,0,0
+1666554807818,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,5,5,null,0,0,0
+1666554807680,160,Home,200,OK,Thread Group 1-4,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,100,0,52
+1666554807680,100,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,100,0,52
+1666554807780,60,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554807840,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1666554807722,159,Home,200,OK,Thread Group 1-5,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,99,0,50
+1666554807722,99,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,99,0,50
+1666554807821,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,58,0,0
+1666554807881,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1666554807706,184,Home,200,OK,Thread Group 1-1,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807706,118,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807824,66,Home-1,200,OK,Thread Group 1-1,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,58,0,0
+1666554807890,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,5,5,null,0,0,0
+1666554807760,169,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,117,0,60
+1666554807760,117,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,117,0,60
+1666554807878,51,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,49,0,0
+1666554807930,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807819,165,Home,200,OK,Thread Group 1-3,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,117,0,60
+1666554807819,117,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,117,0,60
+1666554807937,47,Home-1,200,OK,Thread Group 1-3,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,46,0,0
+1666554807984,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,5,5,null,0,0,0
+1666554807841,163,Home,200,OK,Thread Group 1-4,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,103,0,52
+1666554807841,103,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,103,0,52
+1666554807944,60,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808005,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,5,5,null,0,0,0
+1666554807882,178,Home,200,OK,Thread Group 1-5,text,true,,4004,254,5,5,https://rangers-bikes.firebaseapp.com/,118,0,59
+1666554807882,118,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,118,0,59
+1666554808000,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,5,5,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808061,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,5,5,null,0,0,0
+1666554807891,172,Home,200,OK,Thread Group 1-1,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,104,0,51
+1666554807891,104,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,104,0,51
+1666554807995,68,Home-1,200,OK,Thread Group 1-1,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554808064,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,5,5,null,0,0,0
+1666554807930,169,Home,200,OK,Thread Group 1-2,text,true,,4005,254,5,5,https://rangers-bikes.firebaseapp.com/,115,0,57
+1666554807930,115,Home-0,301,Moved Permanently,Thread Group 1-2,,true,,387,127,5,5,http://rangers-bikes.firebaseapp.com/,115,0,57
+1666554808046,53,Home-1,200,OK,Thread Group 1-2,text,true,,3618,127,5,5,https://rangers-bikes.firebaseapp.com/,50,0,0
+1666554808100,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-2,text,false,,875,0,5,5,null,0,0,0
+1666554807985,163,Home,200,OK,Thread Group 1-3,text,true,,4005,254,4,4,https://rangers-bikes.firebaseapp.com/,116,0,58
+1666554807985,116,Home-0,301,Moved Permanently,Thread Group 1-3,,true,,387,127,4,4,http://rangers-bikes.firebaseapp.com/,116,0,58
+1666554808102,46,Home-1,200,OK,Thread Group 1-3,text,true,,3618,127,4,4,https://rangers-bikes.firebaseapp.com/,44,0,0
+1666554808149,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-3,text,false,,875,0,4,4,null,0,0,0
+1666554808005,158,Home,200,OK,Thread Group 1-4,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,95,0,43
+1666554808005,95,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,95,0,43
+1666554808101,62,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554808164,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,3,3,null,0,0,0
+1666554808063,177,Home,200,OK,Thread Group 1-5,text,true,,4004,254,3,3,https://rangers-bikes.firebaseapp.com/,116,0,59
+1666554808063,116,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,116,0,59
+1666554808180,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,3,3,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808241,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,3,3,null,0,0,0
+1666554808066,187,Home,200,OK,Thread Group 1-1,text,true,,4005,254,3,3,https://rangers-bikes.firebaseapp.com/,117,0,59
+1666554808066,117,Home-0,301,Moved Permanently,Thread Group 1-1,,true,,387,127,3,3,http://rangers-bikes.firebaseapp.com/,117,0,59
+1666554808184,69,Home-1,200,OK,Thread Group 1-1,text,true,,3618,127,3,3,https://rangers-bikes.firebaseapp.com/,61,0,0
+1666554808254,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-1,text,false,,875,0,3,3,null,0,0,0
+1666554808165,166,Home,200,OK,Thread Group 1-4,text,true,,4004,254,2,2,https://rangers-bikes.firebaseapp.com/,101,0,48
+1666554808165,101,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,2,2,http://rangers-bikes.firebaseapp.com/,101,0,48
+1666554808267,64,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,2,2,https://rangers-bikes.firebaseapp.com/,63,0,0
+1666554808332,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,2,2,null,0,0,0
+1666554808242,154,Home,200,OK,Thread Group 1-5,text,true,,4004,254,2,2,https://rangers-bikes.firebaseapp.com/,92,0,44
+1666554808242,92,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,2,2,http://rangers-bikes.firebaseapp.com/,92,0,44
+1666554808336,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,2,2,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808396,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,2,2,null,0,0,0
+1666554808334,180,Home,200,OK,Thread Group 1-4,text,true,,4004,254,2,2,https://rangers-bikes.firebaseapp.com/,117,0,60
+1666554808334,117,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,2,2,http://rangers-bikes.firebaseapp.com/,117,0,60
+1666554808452,62,Home-1,200,OK,Thread Group 1-4,text,true,,3617,127,2,2,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808515,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,2,2,null,0,0,0
+1666554808397,177,Home,200,OK,Thread Group 1-5,text,true,,4004,254,2,2,https://rangers-bikes.firebaseapp.com/,115,0,57
+1666554808397,115,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,2,2,http://rangers-bikes.firebaseapp.com/,115,0,57
+1666554808512,62,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,2,2,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808574,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,2,2,null,0,0,0
+1666554808516,181,Home,200,OK,Thread Group 1-4,text,true,,4005,254,2,2,https://rangers-bikes.firebaseapp.com/,119,0,61
+1666554808516,119,Home-0,301,Moved Permanently,Thread Group 1-4,,true,,387,127,2,2,http://rangers-bikes.firebaseapp.com/,119,0,61
+1666554808635,62,Home-1,200,OK,Thread Group 1-4,text,true,,3618,127,2,2,https://rangers-bikes.firebaseapp.com/,60,0,0
+1666554808697,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-4,text,false,,875,0,2,2,null,0,0,0
+1666554808575,166,Home,200,OK,Thread Group 1-5,text,true,,4004,254,1,1,https://rangers-bikes.firebaseapp.com/,105,0,53
+1666554808575,105,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,1,1,http://rangers-bikes.firebaseapp.com/,105,0,53
+1666554808681,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,1,1,https://rangers-bikes.firebaseapp.com/,58,0,0
+1666554808742,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,1,1,null,0,0,0
+1666554808743,176,Home,200,OK,Thread Group 1-5,text,true,,4004,254,1,1,https://rangers-bikes.firebaseapp.com/,116,0,59
+1666554808743,116,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,1,1,http://rangers-bikes.firebaseapp.com/,116,0,59
+1666554808859,60,Home-1,200,OK,Thread Group 1-5,text,true,,3617,127,1,1,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554808920,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,1,1,null,0,0,0
+1666554808921,177,Home,200,OK,Thread Group 1-5,text,true,,4005,254,1,1,https://rangers-bikes.firebaseapp.com/,117,0,59
+1666554808921,117,Home-0,301,Moved Permanently,Thread Group 1-5,,true,,387,127,1,1,http://rangers-bikes.firebaseapp.com/,117,0,59
+1666554809038,60,Home-1,200,OK,Thread Group 1-5,text,true,,3618,127,1,1,https://rangers-bikes.firebaseapp.com/,59,0,0
+1666554809099,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Thread Group 1-5,text,false,,875,0,1,1,null,0,0,0

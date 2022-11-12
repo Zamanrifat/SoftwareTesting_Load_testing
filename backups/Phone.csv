@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1665862181953,4110,Pickaboo,200,OK,Thread Group 1-1,text,true,,694017,228,1,1,https://www.pickaboo.com/,299,0,223
+1665862181953,312,Pickaboo-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,114,1,1,http://www.pickaboo.com/,299,0,223
+1665862182288,3775,Pickaboo-1,200,OK,Thread Group 1-1,text,true,,693555,114,1,1,https://www.pickaboo.com/,3280,0,622
+1665862186065,2122,SmartPhone,200,OK,Thread Group 1-1,text,true,,396287,266,1,1,https://www.pickaboo.com/product/smartphone/,52,0,0
+1665862186065,53,SmartPhone-0,301,Moved Permanently,Thread Group 1-1,text,true,,481,133,1,1,http://www.pickaboo.com/product/smartphone/,52,0,0
+1665862186118,2069,SmartPhone-1,200,OK,Thread Group 1-1,text,true,,395806,133,1,1,https://www.pickaboo.com/product/smartphone/,1767,0,0
